@@ -1,6 +1,6 @@
 <?php
 /**
- * @requires extension mcrypt
+ * @requires extension mcrypt modificando 
  */
 class Encrypt_test extends CI_TestCase {
 
